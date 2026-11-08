@@ -73,7 +73,8 @@ Examples to send over Meshtastic:
 
 ```text
 weather Tampa
-weather "Portland, Maine"
+weather "Tampa, Fl"
+weather 33610
 weather help
 ```
 
